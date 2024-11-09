@@ -1,0 +1,11 @@
+.subtitle {
+  font: var(--subtitle);
+}
+
+.text-md {
+  font: var(--text-md);
+}
+
+.text-sm {
+  font: var(--text-sm);
+}
