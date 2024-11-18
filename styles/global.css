@@ -5,6 +5,8 @@
 }
 
 :root {
+  max-width: 100%;
+  max-height: 100%;
   /*Cores Principais*/
   --red: #e3646e;
   --purple: #bb72e9;
@@ -31,5 +33,12 @@
   --subtitle: 400 20px/120% var(--incosolata);
   --text-md: 400 16px/140% var(--maven-pro);
   --text-sm: 400 14px/140% var(--maven-pro);
+
+  /*backgrounds img*/
+  --background-intro: url(/assets/background/Background_Intro.png);
+  --background-contacts: url(/assets/background/Background_Contacts.png);
+
+  --bg-intro: no-repeat var(--background-intro);
 }
+
 
